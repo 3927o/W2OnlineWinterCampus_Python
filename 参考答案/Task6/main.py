@@ -15,5 +15,5 @@ img = Image.open("起风了.jpg")
 img.show()
 
 # Problem4
-img_qrcode = qrcode.make(b"https:\\bilibili.com")
+img_qrcode = qrcode.make(r"https:\\bilibili.com")
 img_qrcode.show()

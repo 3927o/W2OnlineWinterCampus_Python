@@ -9,7 +9,8 @@
   ### 学习任务
 
   1. 请设计一个网站，要求如下
-     1. 当访问URL"http://127.0.0.1:5000/get_file/\<filename>"时，网页显示对应文件的访问URL，并在3秒后重定向至该URL以获取文件
+     1. 当访问URL"http://127.0.0.1:5000/get_file_url/\<filename>"时，网页显示对应文件的访问URL
+     2. 当访问URL"http://127.0.0.1:5000/get_file/\<filename>"时，网页重定向至对应文件的访问URL
 
   
 
